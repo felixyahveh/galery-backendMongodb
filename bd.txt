@@ -1,0 +1,11 @@
+Nombre del servidor: imgs-db
+
+Motor: MySQL - Flexible Server
+
+Nombre de la base de datos: imgs-database
+
+Región: Canada Central
+
+Nombre de usuario: zjazlsgwgb
+
+Contraseña: P4D0MWJ23V7O4W46$
